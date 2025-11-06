@@ -80,8 +80,8 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Replit-Dark.svg" />
   </kbd>
    <kbd>
     <kbd>Game Development</kbd>
@@ -95,12 +95,10 @@
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=AKSAN1&theme=dracula&layout=compact)](https://github.com/anuragkhurana/github-readme-stats)">
+<br>
+<br>	
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
 </p>
 
