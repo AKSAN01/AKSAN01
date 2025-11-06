@@ -1,12 +1,14 @@
+### 👋 ¡Hola! Soy Santiago
 
-**Sobre mi!**
+* 👨🏽‍💻  Actual estudiante de ingenieria de sistemas UD
+* 🌱  Cuento con habilidades en varios ambitos de desarrollo ademas de un fuerte desempeño en habilidades blandas
+* 🤔  Tengo un fuerte interes en la **cyberseguridad**, **Sistemas operativos** y desarrollo de **software y hardware**
+* 💬  Mi correo de contacto: [santi07var@gmail.com](mailto:santi07var@gmail.com)
+* 👥  Cuento con nivel de Ingles B1 certificado y un nivel basico en Japones 
 
-- 👨🏽‍💻  Actual estudiante de ingenieria de sistemas UD
-- 🌱  Cuento con habilidades en varios ambitos de desarrollo ademas de un fuerte desempeño en habilidades blandas
-- 🤔  Tengo un fuerte interes en la cyberseguridad, Sistemas operativos y desarrollo de software y hardware
-- 💬  Mi correo de contacto santi07var@gmail.com
-- 👥  Cuento con nivel de Ingles B1 certificado y un nivel basico en Japones 
+<br>
 
+<h3 align="center">Mis Habilidades y Herramientas</h3>
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -40,7 +42,7 @@
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
     <img width="30px" src= "https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" />
-    
+   
   </kbd>
   <br>
   <br>
@@ -60,7 +62,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" />
-    
+   
   </kbd>
     <kbd>
     <kbd> Systems </kbd>
@@ -70,10 +72,10 @@
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" />
-    
+   
 
   </kbd>
-    
+   
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -87,18 +89,22 @@
     <kbd>Game Development</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Godot-Dark.svg" />
   </kbd>
 </p>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<br>
 
-<h2 align="center"><u>My Github Stats</u></h2>
+<h2 align="center"><u>Mis Estadísticas de GitHub</u></h2>
+
 <p align="center">
-<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=AKSAN1&theme=dracula&layout=compact)](https://github.com/anuragkhurana/github-readme-stats)">
-<br>
-<br>	
-<br>
-<br>
+  <a href="https://github.com/anuragkhurana/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSAN01&theme=dracula&layout=compact">
+  </a>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TekyaygilFethi/TekyaygilFethi/output/github-contribution-grid-snake.svg" alt="Snake contribution grid">
+</p>
