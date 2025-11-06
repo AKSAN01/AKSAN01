@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/905d1926-d38a-4f5d-b468-2a3a192cad81" />
+
 **Sobre mi!**
 
 - 👨🏽‍💻  Actual estudiante de ingenieria de sistemas UD
