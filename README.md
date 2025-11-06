@@ -1,4 +1,4 @@
-
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/905d1926-d38a-4f5d-b468-2a3a192cad81" />
 **Sobre mi!**
 
 - 👨🏽‍💻  Actual estudiante de ingenieria de sistemas UD
@@ -46,13 +46,12 @@
   <br>
   <kbd>
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
+    <kbd>Networking & Deployment</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" />
-    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" />
   </kbd>
   <kbd>
@@ -60,8 +59,21 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" />
+    
   </kbd>
+    <kbd>
+    <kbd> Systems </kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" />
+    
+
+  </kbd>
+    
   <kbd>
     <kbd>Tools</kbd>
     <br>
