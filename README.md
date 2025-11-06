@@ -14,14 +14,13 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src= "https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" />
     <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" />
   </kbd>
@@ -38,29 +37,23 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
+    <img width="30px" src= "https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" />
+    
   </kbd>
   <br>
   <br>
   <kbd>
-    <kbd>Data Science & AI</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  </kbd>
- 
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
+    <img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
@@ -99,9 +92,3 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
 </p>
 
-
-
------
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
-
-Last Edited on: 20/01/2022
