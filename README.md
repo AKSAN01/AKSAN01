@@ -98,7 +98,7 @@
 <h2 align="center"><u>Mis Estadísticas de GitHub</u></h2>
 
 <p align="center">
-  <a href="https://github.com/anuragkhurana/github-readme-stats">
+  <a href="https://github.com/AKSAN01/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSAN01&theme=dracula&layout=compact">
   </a>
 </p>
